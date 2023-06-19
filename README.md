@@ -21,10 +21,10 @@ This game is made for digital marketing purposes.
 3. **In second episode**, the number of bombs was increased in the second part.
   <img width="951" alt="image" src="https://github.com/efsungurbuz/SaveRex/assets/101178401/e876e15c-4fd1-4603-b8d0-20874e959273">
   
-4. **In third episode, I have added stone. When a player touch the stone he/she dies.
+4. **In third episode,** I have added stone. When a player touch the stone he/she dies.
    <img width="950" alt="image" src="https://github.com/efsungurbuz/SaveRex/assets/101178401/9c196840-ec9d-4db4-b080-be3c20e1eb2d">
    
-5. **In final episode, added. The monster is randomly moving on the x-axis.
+5. **In final episode,** added. The monster is randomly moving on the x-axis.
  <img width="953" alt="image" src="https://github.com/efsungurbuz/SaveRex/assets/101178401/1c17e2ca-657b-423c-8b6d-1d3704502f40">
 
 
